@@ -1,0 +1,6 @@
+IP: 127.0.0.1
+PORT: 80
+dzikrisyairozi.shop: ./src/com/serversocket/websites/root/
+goofy.xyz: ./src/com/serversocket/websites/goofy/
+indiana-jones.co.id: ./src/com/serversocket/websites/indiana-jones/
+colorfulbaby.com: ./src/com/serversocket/websites/colorful-baby/
